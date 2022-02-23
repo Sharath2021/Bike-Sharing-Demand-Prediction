@@ -5,3 +5,4 @@ Currently rental bikes are introduced in many urban cities for the enhancement o
 It is important to make the rental bike available and accessible to the public, as it provides many alternatives to commuters in metropolises. There are a lot of advantages to bike rents, it is convenient because it permits people not to keep the bike all day long, whether it is at work or at school. Furthermore it is the healthiest way to travel and it has many environmental benefits.
 
 The studied dataset contains weather information which are the features (Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall), the target is the number of bikes rented per hour and date information. The dataset presents the company's data between December the 1st of 2017 and finishes one year later.
+![image](https://user-images.githubusercontent.com/91681571/155405952-98a44577-f659-4bd8-9f3d-51ca590de8f5.png)
